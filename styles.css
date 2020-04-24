@@ -1,0 +1,117 @@
+body {
+  font-family: "Merriweather", serif;
+  line-height: 2;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 6rem;
+  font-weight: bold;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+  padding-bottom: 20px;
+}
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+  padding-bottom: 20px;
+}
+h5 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+hr {
+  border: dotted #364e68 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+/* Section Backgrounds */
+.dark-bg {
+  background-color: #132238;
+  color: #fff;
+  padding-bottom: 100px;
+}
+.light-bg {
+  background-color: #364e68;
+  color: #fff;
+}
+.white-bg {
+  background-color: #fff;
+  color: #40514e;
+}
+
+/* Navbar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-family: "Montserrat";
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+/* Home section */
+
+.profile-pic {
+  border-radius: 50%;
+  padding: 20px 0 0;
+  width: 15%;
+}
+
+/* About section */
+
+#about {
+  margin: 100px 0;
+}
+.intro {
+  width: 43%;
+  margin: auto;
+}
+
+/* Contact Section */
+#contact {
+  padding: 100px 0;
+}
+
+/* Footer Section */
+
+.footer {
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+.attribution {
+  color: #fff;
+  margin: 0;
+  font-size: 1rem;
+  padding: 10px;
+}
+.copywrite {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Portfolio Section */
