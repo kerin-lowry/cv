@@ -115,3 +115,17 @@ hr {
 }
 
 /* Portfolio Section */
+#projects {
+  padding: 100px 0;
+}
+
+.project-card {
+  color: #40514e;
+}
+.my-btn {
+  background-color: #364e68 !important;
+  font-family: "Montserrat", sans-serif;
+}
+.my-btn:hover {
+  background-color: #132238 !important;
+}
